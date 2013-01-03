@@ -1,0 +1,32 @@
+{
+  "name": "codebricks",
+  "version": "0.0.1",
+  "description": "",
+  "author": {
+    "name": "Pete Clark",
+    "email": "pclarkgithub@gmail.com"
+  },
+  "contributors": [],
+  "dependencies": {
+    "async": "= 0.1.22",
+    "node-uuid": "~1.4.0",
+    "cloneextend": "0.0.3"
+  },
+  "main": "./lib/codebricks.js",
+  "keywords": [
+    "codebricks"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/peteclark82/node-codebricks"
+  },
+  "bugs": {
+    "web": "https://github.com/peteclark82/node-codebricks/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/peteclark82/node-codebricks/LICENSE"
+    }
+  ]
+}
