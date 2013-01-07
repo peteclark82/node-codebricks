@@ -10,7 +10,8 @@
   "dependencies": {
     "async": "= 0.1.22",
     "node-uuid": "~1.4.0",
-    "cloneextend": "0.0.3"
+    "cloneextend": "0.0.3",
+    "express": "~3.0.6"
   },
   "main": "./lib/codebricks.js",
   "keywords": [
