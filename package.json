@@ -12,7 +12,8 @@
     "node-uuid": "~1.4.0",
     "cloneextend": "0.0.3",
     "express": "~3.0.6",
-    "colors": "~0.6.0-1"
+    "colors": "~0.6.0-1",
+    "walk": "~2.2.1"
   },
   "main": "./lib/codebricks.js",
   "keywords": [
