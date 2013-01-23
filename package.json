@@ -13,9 +13,17 @@
     "cloneextend": "0.0.3",
     "express": "~3.0.6",
     "colors": "~0.6.0-1",
-    "walk": "~2.2.1"
+    "walk": "~2.2.1",
+    "send": "~0.1.0",
+    "socket.io": "~0.9.13"
+  },
+  "devDependencies": {
+    "mocha": "~1.8.1"
   },
   "main": "./lib/codebricks.js",
+  "scripts": {
+    "test": "mocha test --reporter spec"
+  },
   "keywords": [
     "codebricks"
   ],
