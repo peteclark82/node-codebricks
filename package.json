@@ -1,6 +1,6 @@
 {
   "name": "codebricks",
-  "version": "0.0.4",
+  "version": "0.0.9",
   "description": "",
   "author": {
     "name": "Pete Clark",
@@ -21,10 +21,10 @@
   "devDependencies": {
     "mocha": "~1.8.1"
   },
-	"bin": {
-		"codebricks" : "./lib/cli.js"
-	},
   "main": "./lib/codebricks.js",
+	"bin": {
+		"codebricks" : "./bin/cli.js"
+	},
   "scripts": {
     "test": "mocha test --reporter spec"
   },
